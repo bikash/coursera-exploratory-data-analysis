@@ -1,6 +1,6 @@
 
 ## point to current project folder
-setwd("/Users/bikash/repos/Coursera-Practical-Machine-Learning/ExploratorydataScience/project1")
+setwd("/Users/bikash/repos/bigdata/ExData_Plotting1")
 
 ## data load
 ########################################################################################################################
